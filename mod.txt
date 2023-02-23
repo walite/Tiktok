@@ -1,4 +1,4 @@
-{"version_code":211817023,"content":"
+{"version_code":9,"content":"
 <p> تحديث|Update 2.70</p>
 
 
